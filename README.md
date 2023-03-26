@@ -1,4 +1,5 @@
-IpAddrCounter 1.0.0
+IpAddrCounter
+-------------------
 
 This console program counts unique IPv4 addresses in the provided file. It can process very big files (100Gb+)
 IP file should have IP addresses each placed on a new line. 
