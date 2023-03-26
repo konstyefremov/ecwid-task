@@ -17,3 +17,7 @@ If some lines are not valid IPv4, the program will ignore them.
 **Usage:**
 
 `IpAddrCounter FILE` 
+
+**Example result**:
+
+`The file "ip.txt" contains 1000 unique IPs`
